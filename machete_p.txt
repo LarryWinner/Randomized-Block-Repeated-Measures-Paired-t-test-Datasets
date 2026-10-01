@@ -1,0 +1,14 @@
+Dataset:  machete_d.dat
+
+Source: A.M. Hurtado, K. Hill (1989). "Experimental Studies of
+Tool Efficiency Amonf Machinguenga Women and Implications for
+Root-Digging Foragers", Journal of Anthropological Research, Vol.45,
+#2,pp207-217.
+
+Description: Amount of processing (kg/hour) for 7 cases Machinguenga
+women with machete and with a wooden spoon.
+
+Variables/Columns
+Case # 1
+Machete Output   4-6
+Wooden bow output  8-10

@@ -1,0 +1,15 @@
+Dataset: dancer_warmup.dat
+
+Source: N. Morrin and E. Redding (2013). "Acute Effects of Warm-Up Stretch
+Protocols on Balnce, Vertical Jump Height and Range of Motion in Dancers,"
+Journal of Dance Medicine & Science, Vol. 17, #1, pp. 34-40
+
+Description: Comparison of 4 Stretching protocols (1=Static Stretching,
+2=Dynamic Stretching, 3=Combination Stretching, 4=No Stretch) among
+10 dancers (blocks) on vertical jump height.
+Data simulated to match paper results.
+
+Variables/Columns
+Stretch Protocol    8
+Dancer        15-16
+Vertical Jump Height (cm)   18-24

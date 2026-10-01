@@ -1,0 +1,21 @@
+Dataset:  golf_driver.csv
+
+Source: T.E. Lacy, Jr., J. Yu, J. Axe, T. Luczak (2012). "The Effect of
+Driver Mass and Shaft Length on Initial Golf Ball Launch Conditions: A
+Designed Experimental Study," Procedia Engineering, Vol. 34, pp. 379-384.
+
+Description: Randomized Block design comparing 4 golf club drivers in
+6 subjects. Responses: Backspin (RPM), Total Distance (meters), Ball
+Speed (KPH), and Launch Angle (degrees).
+Driver 1: Mass=270g, Length=117.5cm
+Driver 2: Mass=290g, Length=116.2cm
+Driver 3: Mass=310g, Length=115.0cm
+Driver 4: Mass=340g, Length=113.4cm
+
+Variables:
+club
+golfer
+backspin
+totdist
+ballspeed
+launchang

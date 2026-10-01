@@ -1,0 +1,14 @@
+Dataset:  interview.dat
+
+Source: J.S. Stock and J.R. Hochsteim (1951). "A Method
+of Measuring Interviewer Variability", Public Opinion
+Quarterly, Vol. 15 #2, pp322-334.
+
+Description: Experiment to study interviewer variability for
+Census Bureau. 6 Interviewers obtaining prices of men's worsted
+suits from 3 types of store (Department, Family Apparel,Men's apparel)
+
+Variables/Columns
+Interviewer  1
+Store Type 3  /* 1=Dept 2=Family   3=Mens  */
+Price  5-8

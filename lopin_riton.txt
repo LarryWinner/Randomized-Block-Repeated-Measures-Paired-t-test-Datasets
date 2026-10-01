@@ -1,0 +1,22 @@
+Dataset: lopin_riton.csv
+
+Source: M. Ibarra, P. Fagiolino, M. Vazquez, S. Ruiz, M. Vega, B. Bellocq, M. Perex, B. Gonzalez, A. Goyret (2012).
+"Impact of Food Administration on Lopinavir-Ritonavir Bioequivalence
+Studies," European Journal of Pharmaceutical Sciences, Vo. 46,
+pp. 516-521.
+
+Description: Results of bioequivalence studies for Lopinaviar and
+Ritonavir (one Test and 1 Reference formulation) in 16 healthy
+volunteers (8 Males and 8 Females). One male and one female were removed
+due to aberrant concentrations for the male in Ritonavir arm.
+
+Variable Names:
+gender   (1=Male, 2=Female)
+subjID
+form     (T=Test, R=Reference)
+tmax_lop    (time to max for lopinavir)
+Cmax_lop    (Maximum concentration)
+AUC24_lop   (Area under the concentration time curve 0-24 hours)
+AUCinf_lop  (Area under the concentration time curve 0-infinity)
+t12_lop     (Half-life)
+Same conventions for Ritonavir, with _rit replacing _lop

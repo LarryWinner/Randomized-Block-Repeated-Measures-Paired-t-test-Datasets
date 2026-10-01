@@ -1,0 +1,21 @@
+Dataset:   drink_smell.csv
+
+Source: A.Cavazzana, M. Larsson, E. Hoffmann, T. Hummel, A.Haehner (2017).
+"The Vessel's Shape Influences the Smell and Tase of Cola,
+Food Quality and Preference, Vol. 59, pp. 8-13.
+
+Description: 
+3-factor repeated measures study relating smell intensity of drinks to drink type and container
+in subjects. Factors:
+Drink: 1=Cola, 2=Water
+Container: 1=Coca-Cola glass, 2=Water glass, 3=Bottle
+Subject: 1:100 Raters (each rated each of the Drink/Container combinations)
+Response: Intensity Rating (0-100)
+Note: Data generated to obtain means, sd's and the Analysis of Variance
+     (some observations fall out of 0-100 range)
+
+Variable Names
+drink
+container
+subject
+intensity

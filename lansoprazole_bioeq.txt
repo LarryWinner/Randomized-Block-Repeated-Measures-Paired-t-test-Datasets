@@ -1,0 +1,19 @@
+Dataset:  lansoprazole_bioeq.csv
+
+Source: H.A. Dugger, J.D. Carlson, W. Henderson, G.R. Erdmann, S. Mahmood Alam, 
+R. Dham, Quamruzaman (2001). "Bioequivalence Evaluation of Lansoprazole 30-mg
+Capsules (Lanfast and Lanzor) in Healthy Volunteers," European Journal of Pharmaceutics and
+Biopharmaceutics, Vol. 51, pp.153-157.
+
+Description: Crossover design with 26 subjects comparing test formulation Lanfast with 
+reference formulation Lanzor. Formulations were determined to be bioequivalent.
+
+Variables:
+subjectID
+formulation    (T=Lanfast, R=Lanzor)
+AUC_0t         (Area under concentration time curve, 0-16 hours,   ng h/ml)
+AUC_0inf       (  "    "        "          "    "  , extrapolated from 0-infty, ng h/ml)
+C_max          (Maximum concentration, ng/ml)
+T_max          (Time to maximum concentration, hours)
+lambda_z       (Elimination Rate Constant)
+T_0.5          (Elimination Half life, hours = sqrt(2)/lambda_z)

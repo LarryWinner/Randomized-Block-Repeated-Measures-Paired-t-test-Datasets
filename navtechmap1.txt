@@ -1,0 +1,25 @@
+Dataset:  navtechmap1.csv
+
+Source: F.-G. Wu, H. Lin, M. You (2011). "The Enhanced Navigator for the
+ Touch Screen: A Comparative Study on Navigational Techniques of Web Maps,"
+Displays, Vol. 32, pp. 284-295.
+
+Description: Results of a 3-Way Factorial model with Factors:
+Navigation Technique (Fixed): 
+         CPB=Combined Panning Buttons
+         DPB=Distributed  "      "
+         ENCC=Enhanced navigator w/ continuous control
+         G&D=Grab and Drag
+Input Method (Fixed):
+         DT = Direct-touch
+         M = Mouse
+Subject (Random): 36 Subject participants (each subject used each
+        combination Navigation Technique and Input Method
+Y = Task Completion Time
+Data simulated to obtain same ANOVA results.
+
+Variables Names
+navTech       Navigation Technique      /* 1=CPB, 2=DPB, 3=ENCC, 4=D&G   */
+inputMeth     Input Method          /* 1=DT, 2=M */
+subject         
+taskTime     Task completion time   26-32

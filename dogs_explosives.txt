@@ -1,0 +1,23 @@
+Dataset:  dogs_explosives.csv
+
+Source: B.L. Sherman, M.E. Gruen, B.C. Case, M.L. Foster, R.E. Fish,
+L. Lazarowski, V. DePuy, D.C. Dorman (2015). "A Test for the Evaluation of
+Emotional Reactivity in Labrador Retrievers Used for Explosives Detection,"
+Journal of Veterinary Behavior, Vol. 10, pp. 94-102.
+
+Description: Data from 16 explosives detecting Labrador behaviors
+given an Emortional Reactivity Test.
+
+Variable Names
+dogName
+gender   (M or F)
+coatColor   (B=Black, Y=Yellow)
+ageDays   *age in days)
+ERTscore   (max=85)
+SC_pre     (pre-test Salivary Cortisol mg/dL)
+SC_post    (post-  "      "        "     ")
+dSC_popr   (SC_post - SC_pre)
+PC_pre     (pre-test Plasma Cortisol mg/dL)
+PC_post    (post-  "    "     "       "   )
+dPC_popr   (PC_post - PC_pre)
+anxiety    (open-field anxiety score)

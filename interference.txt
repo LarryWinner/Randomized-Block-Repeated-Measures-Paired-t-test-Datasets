@@ -1,0 +1,17 @@
+Dataset:  interference.csv
+
+Source: J.R. Stroop (1935). "Studies of Interference in Serial Verbal
+Reactions", Journal of Experimental Psychology, Vol 18, pp643-662
+
+Description: Times to read a list of
+color names in two conditions: Color name written in a different
+color, and Color name written in black. Paired difference experiment, 
+with each subject measured in each condition. Data simulated to match
+means and SDs. 
+
+Variables:
+Subject
+Time in Different color
+Time in Black
+
+
