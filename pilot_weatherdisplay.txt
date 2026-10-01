@@ -1,0 +1,19 @@
+Dataset: pilot_weatherdisplay.csv
+
+Source: D. O'Hare and N. Stenhouse (2009). "Under the Weather: An Evaluation of Different Modes
+of Presenting Meteorological Information for Pilots," Applied Ergonomics, Vol. 40, pp. 688-693.
+
+Description: Experiment to compare 3 cockpit weather displays on students' correct recall
+in flight simulations. Response variable: Percent of information correctly recalled.
+Treatments (Displays): 
+1 = ordinary text (Enlish phrases)
+2 = redesigned graphical
+3 = old graphical
+Subjects (blocks): 23 undergraduate students who received each treatment
+                   order of the treatments was counterbalanced among students.
+Data generated to reproduce the ANOVA and preserve means/sd's and 0 < y < 100
+
+Variable Names:
+trt.y   (treatment id)
+blk.y   (subject id)
+corrRecall    (% correct recalled information)

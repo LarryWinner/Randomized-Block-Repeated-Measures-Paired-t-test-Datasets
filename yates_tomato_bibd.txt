@@ -1,0 +1,14 @@
+Dataset: yates_tomato_bibd.csv
+
+Source: F. Yates (1940). "The Recovery of Inter-Block Information in
+Balanced Incomplete Block Designs," Annals of Eugenics, Vol. 10, #1, 
+pp. 317-325.
+
+Description: Results of a BIBD with 21 tomato varieties in 21 blocks of size 5.
+Each variety is observed 5 times, and each pair of varieties appear together
+in 1 block.
+
+Variables/Labels
+Block
+Trt
+Yield 

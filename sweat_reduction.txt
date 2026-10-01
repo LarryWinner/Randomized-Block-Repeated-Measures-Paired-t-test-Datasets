@@ -1,0 +1,13 @@
+Dataset: sweat_reduction.dat
+
+Source: P.A. Majors and J.E. Wild (1974). "The Evaluation
+of Antiperspirant Efficacy - Inluence of Certain Variables,"
+Journal of the Society of Cosmetic Chemists, Vol. 25, pp139-152.
+
+Description: Sweat Reduction (percentage) for 24 subjects each receiving
+4 brands of antiperspirant
+
+Variables/Columns
+Subject  7-8
+Brand    16
+Percent Sweat Reduction   23-24

@@ -1,0 +1,16 @@
+Dataset:  tooth_cement.csv
+
+Source: J.R. Holtan, G.P. Nystrom, P.S. Olin, J. Rudney and W.H. Douglas (1990).
+"Bond Strength of a Light-Cured and Two Auto-Cured Glass Ionomer Liners, Journal of Dentistry,
+Vol. 18, pp. 271-275
+
+Description: Comparison of 3 glass ionomers on sheer bond strength:
+1 = Vitrabond (light-cured)
+2 = GC Lining Cement (auto-cured)
+3 = Ketac-Bond (auto-cured)
+in 99 tooth sides (2 Trts/Tooth) in a Balanced Incompete Block Design
+
+Variables:
+tooth
+cement
+sbstrength

@@ -1,0 +1,15 @@
+Dataset:  wine_isotope.csv
+
+Source: C. Durante, C. Baschieri, L. Bertacchini, et al (2015).
+"An Analytical Approach to Sr Isotope Ratio Determination in Lambrusco
+Wines for Geographical Traceability Purposes," Food Chemistry, Vol. 173,
+pp. 557-563.
+
+Description: Two methods of determining SR^87/Sr^86 isotopic ratios in
+wine, used for identifying geographic location. Each method (microwave
+and low temperature) were used on 18 sample wines. Paired t-test.
+
+Variable names
+sample_id
+microwave
+lowtemp

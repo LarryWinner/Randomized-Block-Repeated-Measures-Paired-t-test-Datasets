@@ -1,0 +1,13 @@
+Dataset:  readtime.dat
+
+Source: Henderson, et al (1973). "Failure to Find a Syllabic Effect
+in Number Naming", Memory & Cognition, Vol.1 #3, pp.304-???
+
+Description: 15 Subjects recited numbers of 2, 3, and 4 syllables.
+Median time for each subject for each number of syllables is reported.
+
+Variables/Columns
+Subject id  1-2
+# of syllables  6
+Median Time    10-12
+

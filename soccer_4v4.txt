@@ -1,0 +1,14 @@
+Dataset:  soccer_4v4.dat
+
+Source: C. Hodgson, R. Akenhead, K. Thomas (2014). "Time-Motion Analysis
+of Acceleration Demands of 4v4 Small-Sided Soccer Games Played on Different
+Pitch Sizes," Human Movement Science, Vol. 33, pp. 25-32.
+
+Description: Total Distance Covered in small-sided soccer games on 3
+field sizes (30x20m, 40x30m, 50x40m) by 8 University level soccer players
+in 4 minute x 4 period games, separated by a week each.
+
+Variables/Columns
+Pitch Size    8
+Player       16
+Distance Covered (m)  18-24

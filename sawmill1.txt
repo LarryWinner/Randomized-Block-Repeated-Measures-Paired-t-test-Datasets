@@ -1,0 +1,15 @@
+Dataset:  sawmill1.csv
+
+Source: W. Lin and J. Wang (2012). "An Integrated 3D Log Processing
+Optimization System for Hardwood Sawmills in Central Appalachia, USA,"
+Computers and Electronics in Agriculture, Vol. 82, pp. 61-74.
+
+Description: Randomized Block Design with 3 "Treatments": Actual Sawmill,
+Heuristic, and Dynamic Programming algorithm in 30 blocks (Logs).
+Responses were lumber value (dollars) and lumber volume (m^3).
+
+Variables:
+lumTrt     (1=Actual, 2=Heuristic, 3=Dynamic)
+lumBlk     (1-30)
+lumVal     (value)
+lumVol     (volume)

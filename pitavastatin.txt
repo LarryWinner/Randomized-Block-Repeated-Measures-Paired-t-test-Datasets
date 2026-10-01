@@ -1,0 +1,17 @@
+Dataset:  pitavastatin.dat
+
+Source: Y-h. Huang, Z-q. Li, G-x. Pan, et al. (2014). "Comparison of
+Scaled Average, Population and Individual Bioequivalence on 2 Tablets
+of Pitavastatin Calcium: A 3-Period, Reference-Replicated, Crossover
+Study in Healthy Chinese Volunteers," Clinical Therapeutics, Vol. 36, #9,
+pp. 1205-1216.
+
+Description: See title. 
+
+Variables/columns
+Patient id   7-8
+Formulation   16   /* 1=Test,  2=Reference 1, 3=Reference 2  */
+Time to Maximum Concentration (hours)  20-24
+Maximum Concentration (ng/ml)   26-32
+Area under the Concentration-time Curve (ng*h/ml)  34-40
+

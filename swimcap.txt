@@ -1,0 +1,16 @@
+Dataset:  swimcap.csv
+
+Source: M.W. Peeters and A.L. Claessens (2011). "Effects of Different Swim
+Caps on the Assessment of Body Volume and Percentage Body Fat by Air
+Displacement Plethysmography," Journal of Sports Sciences, Vol. 29, #2,
+pp. 192-196.
+
+Description: Results of Randomized Block experiment with 3 swim cap
+conditions (1=No cap, 2=Lycra, 3=Silicone) with 30 swimmers (blocks)
+with response=Body volume (litres).
+Data generated to match the Analysis of Variance.
+
+Variable names:
+swimCap
+swimmer
+bodyVol

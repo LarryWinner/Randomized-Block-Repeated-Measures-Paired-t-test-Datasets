@@ -1,0 +1,29 @@
+Dataset:  treadmill1.csv
+
+Source: A. Carraro, C.A. Elliot, E. Gobbi (2019). "Perceived Treadmill Function is 
+Correlated with Enjoyment of Use in Trained Runners: A User-Centered Approach,"
+Applied Ergonomics, Vol. 74, pp. 37-40
+
+Description: Repeated Measures (block) experiment with 4 treadmill models (treatments), 
+57 trained runners (subjects/blocks), and 7 responses. No attempt should be made to
+conduct multivariate analysis. Data generated to preserve means, standard deviations, ANOVA.
+Treatments (treadmill models): 1=Life Fitness, 2=Precor, 3=Matrix, 4=Technogym
+Responses (all measured on a visual analog scale: 
+1. Functionality/Usability of running surface (Low=Very Unpleasant/High=Very Pleasant)
+2. Learnability of equipment controls (Low=Very Difficult/High=Very Easy)
+3. Reliability of treadmill for stability and safety (Low=Very Unstable/High=Very Stable)
+4. Physical interaction with machine (i.e. comfort,position,noise) (Low=Poor/High=Good)
+5. Readability of console data (Low=Extremely Complex/High=Extremely Simple)
+6. Aesthetic Appeal (Low=Very Unpleasant/High=Very Pleasant)
+7. Enjoyment of Use (Low=Very Unpleasant/High=Very Pleasant)
+
+Variable Name:
+trdMill
+subject
+runSurf
+controls
+stblSfty
+physIntrct
+consRead
+aesthApp
+enjoyUse

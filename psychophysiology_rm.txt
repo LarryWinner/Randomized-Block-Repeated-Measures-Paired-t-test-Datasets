@@ -1,0 +1,24 @@
+Dataset: psychophysiology_rm.csv
+
+Sources: 
+E. Bagiella, R.P. Sloan, and D.F. Heitjan (2000). "Mixed-Effects 
+Models in Psychophysiology," Psychophysiology, Vol. 37, pp. 13-20.
+
+M.W. Vasey and J.F. Thayer (1987). "The Continuing Problem of False
+Positives in Repeated Measures ANOVA in Psychophysiology: A
+Multivariate Solution," Psychophysiology, Vol. 24, pp. 479-486.
+
+Description: Results of a Repeated Measures experiment, where 22 subjects
+were measured (Left Brow Electromyogram (EMG)) under 4 conditions:
+Relaxing, Positive Affect, Agitation, Sadness. Data were analyzed so
+that the "time order" of the treatments would be: Positive Affect,
+Agitation, Sadness, Relaxation. Fit MANOVA and Linear Mixed Models
+with the following Covariance structures using SAS Proc Mixed:
+Compound Symmetry, Huynh-Feldt, Unstructured, Heterogeneous Compound
+Symmetry, Heterogeneous Toeplitz, and Random Intercepts.
+
+Variables Names:
+patnum    /* patient id  */
+time_lb   /* Left Brow EMG Condition: 10=Relax, 2=Pos Aff, 3=Agit, 4=Sad */
+lbrow    /* Left Brow EMG amplitudes (muV)
+ 

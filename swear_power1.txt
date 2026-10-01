@@ -1,0 +1,14 @@
+Dataset: swear_power1.csv
+
+Source: R. Stephens, D.K. Soierer, E. Katehis (2018). "Effect of Swearing on
+Strength and Power Performance," Psychology of Sport & Exercise," Vo. 35, pp. 111-117.
+
+Description: Results of experiment with 29 adults employing the Wingate Anaerobic
+Power Test (WAnT) on a Monark 894E Peak Bike. Subjects were measured in both a swearing
+and no swearing condition prior to the test. Data generated to match means, sds, and
+paired t-statistic.
+
+Variables:
+ID   (1-29)
+condition  (1 = non-swear, 2=swear)
+peakPwr    WAnT Peak Power (watts)

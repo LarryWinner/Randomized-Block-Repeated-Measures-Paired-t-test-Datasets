@@ -1,0 +1,15 @@
+Dataset: soccer_sprint.dat
+
+Source: C.B. Wragg, N.S. Maxwell, J.H. Doust (2000). "Evaluation of the
+Reliability and Validity of a Soccer-Specific Field Test of Repeated
+Sprint Ability," European Journal of Applied Physiology, Vol. 83,
+pp. 77-83.
+
+Description: Times for 7 soccer players across six trials for
+the Bangsbo Sprint test. Trials were treated as fixed effects
+to determine whether speeds were decreasing over trials.
+
+Variables/Columns
+Player 8
+Trial    16
+Time (seconds)   18-24
