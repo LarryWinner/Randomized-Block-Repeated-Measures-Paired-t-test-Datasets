@@ -1,0 +1,22 @@
+Dataset: bac_3methods.csv
+
+Source: E. Zailer and B.W.K. Diehl (2016). "Alternative Determination of Blood
+Alcohol Concentration by 1H NMR Spectroscopy," Journal of Pharmaceutical
+and Biomedical Analysis, Vol. 119, pp. 59-64.
+
+Description: Measurement of Blood alcohol concentration for 84 samples
+by 3 methods (1=headspace gas chromatography (HS-GC), 2=enzymatic ADH,
+3=proton nuclear magnetic resonance (NMR)). Data are mean of 2 replicates,
+with sd=tandard deviation (%)  by 1H NMR Spectroscopy," Journal of Pharmaceutical
+and Biomedical Analysis, Vol. 119, pp. 59-64.
+
+Description: Measurement of Blood alcohol concentration for 84 samples
+by 3 methods (1=headspace gas chromatography (HS-GC), 2=enzymatic ADH,
+3=proton nuclear magnetic resonance (NMR)). Data are mean of 2 replicates,
+with standard deviation (%).
+
+Variables/Labels
+SampleID
+Method
+Mean BAC     BAC
+Std Dev(%)   SD_pct 

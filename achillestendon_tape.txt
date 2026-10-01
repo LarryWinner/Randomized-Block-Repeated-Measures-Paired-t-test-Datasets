@@ -1,0 +1,17 @@
+Dataset: achillestendon_tape.csv
+
+Source: T. Zhang, Y. Zhao, R. Adams, P. Malliaras, J. Witchalls, W. Fu, J. Han (2025).
+"The Effect of Anti-Pronation Anti-Supination Taping on Neuromuscular Control in
+Recreational Athletes with Achilles Tendinopathy: A Randomized Controlled 
+Cross-Over Trial," Physical Therapy in Sport, Vol. 71, pp. 92-99.
+
+Description: Crossover design with 30 recreational athletes 
+with Achilles Tendinopathy, each receiving 3 taping conditions.
+Conditions: No taping (i=1), Anti-pronation taping (i=2), Anti-supination  taping (i=3)
+Response Y = Weight Bearing Lunge Test (WBLT)
+Data Generated to Match Treatment Means and Analysis of Variance
+
+Variable Names:
+tape.trt  (levels given above)
+tape.subj
+WBLT

@@ -1,0 +1,15 @@
+Dataset: cat_water.csv
+
+Source: C. Pachel and J. Neilson (2010). "Comparison of Feline Water 
+Consumption Between Still and Flowing Water Sources: A Pilot Study,"
+Journal of Veterinary Behavior, Vol. 5, pp. 130-133.
+
+Description: Paired experiment study in 9 cats comparing average
+daily water drunk when exposed to still or flowing water over 4 days.
+For each cat, 2 days under each condition.
+
+Variables
+cat    (id)
+still   (mL)
+flowing   (mL)
+

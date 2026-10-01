@@ -1,0 +1,15 @@
+Dataset:  carpr_bibd.dat
+
+Source: A.F. Jung (1961). "Interviewer Differences Among
+Automile Purchasers," JRSS-C (Applied Statistics), Vol 10, #2,
+pp. 93-97
+
+Description: Ford Falcon price quotes given to 8 interviewers
+by 28 dealers (prices have had removed from quote). Two
+interviewers sent to each dealer in a Balanced Incomplete
+Block Design.
+
+Variables/Columns
+Dealer 7-8
+Interviewer   16
+Price-2000    20-24

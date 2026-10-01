@@ -1,0 +1,26 @@
+Dataset: cfc_mdi.csv
+
+Source: L.I. Harrison, I. Soria, A.C. Cline, B.P. Ekholm (1999). "Pharmacokinetic Differences
+Between Chlorofluorocarbon and Chlorofluorocarbon-free Metered Dose Inhalers of
+Beclomethasone Dipropianote in Adult Asthmatics," Journal of Pharmacy and Pharmacology,
+Vol. 51, Issue 11, pp. 1235-1240.
+
+Description:
+Comparison of 3 formulations beclomethasone diproprianote in a 3-period crossover design.
+Formulations: 
+1 = 200 mu g HFA (hydrofluoroalkane HFA-134a)
+2 = 400 mu g  "            "          "   "
+3 = 400 mu g CFC (chlorofluorocarbon)
+Study had 23 subjects complete and no information on periods/sequences/carryover
+Responses: Maximum concentration, Area Under Curve, Time to Max for Beclamethasone and its esters
+
+Variable Names:
+subject   (1-13,15-24)
+formulation  (1 = 200 mu g HFA, 2 = 400 mu g HFA, 3 = 400 mu g CFC)
+Cmax_Be     (Maximum concentration of beclamethasone esters, pg/mL)
+AUC_Be      (Area Under Concentration Time Curve of beclamethasone esters, pg h / mL)
+Tmax_Be     (Time to Maximum concentration of beclamethasone esters, h)
+Cmax_B     (Maximum concentration of beclamethasone, pg/mL)
+AUC_B      (Area Under Concentration Time Curve of beclamethasone, pg h / mL)
+Tmax_B     (Time to Maximum concentration of beclamethasone, h)
+

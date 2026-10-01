@@ -1,0 +1,19 @@
+Dataset: airq4.dat
+
+Source: U.S. Department of Transportation
+
+Description: Average airfare and weekly passenger traffic for 4177
+city pairs for the 4th quarter of 2000 and 2001
+
+Variables / Columns
+
+City1   1-3
+City2  7-9
+Population of City1 (1000s) 13-20
+Population of City2 (1000s) 23-30
+Distance between cities (Miles)  33-36
+Average Fare 2000q4 (Dollars)  39-44
+Average weekly passengers 2000q4   47-54
+Average Fare 2001q4 (Dollars)    57-62
+Average weekly passengers 2001q4  65-72 
+

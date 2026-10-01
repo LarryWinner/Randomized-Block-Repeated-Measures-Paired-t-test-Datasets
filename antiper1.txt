@@ -1,0 +1,15 @@
+Dataset:  antiper1.dat
+
+Source: E. Jungermann (1974), "Antiperspirants: New Trends in Formulation
+and Testing Technology", Journal of the Societ of Cosmetic Chemists,
+Vol. 25, pp 621-638.
+
+Description: In vivo results of comparison of two formulations of
+antiperspirants on 20 subjects during a test period (mean scores for
+subjects, 1=weak,...,5=strong and disagreeable odor)
+
+Variables/Columns
+
+Subject ID  7-8
+Dry Powder score   14-16
+Powder-in-oil score  22-24

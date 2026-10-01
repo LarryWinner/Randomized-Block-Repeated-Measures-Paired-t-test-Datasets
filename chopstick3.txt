@@ -1,0 +1,16 @@
+Dataset: chopstick3.dat
+
+Source: S-P. Wu and C-S. Hsieh (2002). "Ergonomics Study on the Handle Length
+and Lift Angle for the Culinary Spatula," Applied Ergonomics, Vol. 33,
+pp. 493-501.
+
+Description: Results of an experiment with 4 spatula lengths (1=20cm, 2=25,
+3=30, 4=40), 4 lift angles (1=15deg, 2=25, 3=35, 4=45), with 8
+subjects using each spatula. Response is elapsed time to shovel and 
+transfer 2000g of green beans from pan to plate.
+
+Variables/Columns:
+Length          8
+Angle          16
+Subject        24
+Shovel Time (sec)   26-32

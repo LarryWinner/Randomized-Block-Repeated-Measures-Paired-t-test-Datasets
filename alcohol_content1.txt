@@ -1,0 +1,14 @@
+Dataset: alcohol_content1.csv
+
+Source: M.D. Taylor and B.T. Hodgson (1995). "Blood/Breath Correlations: Intoxilyzer 5000C,
+Alcotest 7110 and Breathalyzer 900A Breath Alcohol Analyzers," Canadian Society of 
+Forensic Science Journal, Vol. 28, #2, pp. 153-164.
+
+Description: Alcohol concentrations (mg%) taken from 15 subjects, twice each by 4 methods.
+Methods (Instruments): Blood (1), 900A (2), 5000C (3), 7110 (4).
+
+Variable Names:
+subjectID
+instrument   (see labels above)
+replicate   (not a factor in study)
+alcCont   (mg%)

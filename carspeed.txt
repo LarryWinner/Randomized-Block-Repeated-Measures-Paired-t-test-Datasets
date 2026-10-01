@@ -1,0 +1,15 @@
+Dataset:  carspeed.csv
+
+Source: H. Ding, X. Zhao, J. Rong, J. Ma (2013). "Experimental Research
+on the Effectiveness of Speed Reduction Markings Based on Driving
+Simulation: A Case Study," Accident Analysis and Prevention,
+Vol. 60, pp. 211-218.
+
+Description: Randomized Block Design, with 3 treatments of
+speed redumction markings (None, Longitudinal Traverse) in
+15 subjects. Response is average acceleration (m/sec^2)
+
+Variables
+Trt   (1=None, 2=Longitudinal, 3=Traverse)
+Subject
+accelerate

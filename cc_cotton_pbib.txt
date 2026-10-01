@@ -1,0 +1,14 @@
+Dataset: cc_cotton_pbib.dat
+
+Source: W.G. Cochran and G.M. Cox (1957). "Experimental Designs, 2nd Ed.",
+Wiley, NY. p. 456
+
+Results of a cotton variety trial in a partially balanced incomplete block 
+design, with 2 associate classes. 15 treatments in 15 blocks of size 4.
+lambda1=0, lambda2=1.
+Associate classes: (1,6,11), (2,7,12), (3,8,13), (4,9,14), (5,10,15)
+
+Variables/Columns
+Block   1-2
+Treatment  4-5
+Yield (pounds per plot) 7-9

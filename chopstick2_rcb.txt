@@ -1,0 +1,16 @@
+Dataset:  chopstick2_rcb.dat
+
+Source: S-H. Hsu and S-P.Wu (1991). "An Investigation for Determining the
+Optimum Length of Chopsticks," Applied Ergonomics, Vol. 22, #6, pp. 395-400.
+
+Description: Randomized Complte Block Design to compare 6 lengths of
+chopsticks (180mm, 210, 240, 270, 300, 330) in 31 subjects (blocks).
+Data simulated to obtain their ANOVA. Response is food-pinching
+efficiency (number of peanuts picked, and placed in cup), technically
+discrete.
+
+Variables/Columns
+Food Pinching efficiency    1-8
+Treatment (Length)    16
+Block (Individual)   23-24
+

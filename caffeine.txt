@@ -1,0 +1,14 @@
+Dataset:  caffeine.dat
+
+Source: W.J. Pasman, M.A. van Baak, A.E. Jeukendrup, A. de Haan (1995).
+"The Effect of Different Dosages of Caffeine on Endurance Performance Time",
+International Journal of Sports Medicine, Vol. 16, pp225-230.
+
+Description: Endurance Times for nine well-trained cyclists, on each
+of 4 doses of caffeine (0,5,9,13 mg)
+
+Variables/Columns
+
+Subject id   1
+Dose        5-6
+endurance time 10-14  /* minutes until exhaustion at 80% Wmax on cycle  */

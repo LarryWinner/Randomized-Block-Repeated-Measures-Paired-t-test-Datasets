@@ -1,0 +1,16 @@
+Datset:  cricket_color.dat
+
+Source: K. Scott, D. Kingsbury, S. Bennett, K. Davids, M. Langley (2002).
+"Effects of Cricket Ball Colour and Illuminance Levels on Catching
+Behaviour in Professional Cricketers," in T. Reilly and J. Greeves (eds),
+Advances in Sport Leisure & Ergonomics, Chapter 19, pp. 231-238.
+
+Description: Mean Movement initiation times among 5 Professional
+cricketers under 6 conditions (2 Colors and 3 Illumination levels).
+
+Variables/Columns
+Player      8
+Condition    16   /* Red/Low, White/Low, Red/Med, White/Med, Red/Hi, White/Hi  */
+Color     24   /* 1=Red   2=White  */
+Light Level  32  /* 1=Low, 2=Med 3=High  */
+Mean movement initiation time (milliseconds)  */
